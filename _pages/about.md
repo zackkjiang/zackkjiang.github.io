@@ -1,34 +1,98 @@
----
+\---
+
 layout: about
+
 title: about
+
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+subtitle: PhD Candidate, Mechanical Engineering, <a href='https://www.njit.edu/'>NJIT</a>. Flexible Sensors · Biosignals · Human-Machine Interfaces.
+
+
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+&#x20; align: right
+
+&#x20; image: prof\_pic.jpg
+
+&#x20; image\_circular: false
+
+&#x20; more\_info: >
+
+&#x20;   <p>Department of Mechanical Engineering</p>
+
+&#x20;   <p>New Jersey Institute of Technology</p>
+
+&#x20;   <p>Newark, NJ 07102</p>
+
+
+
+selected\_papers: true
+
+social: true
+
+
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+&#x20; enabled: true
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+&#x20; scrollable: true
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+&#x20; limit: 5
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+latest\_posts:
+
+&#x20; enabled: false
+
+&#x20; scrollable: true
+
+&#x20; limit: 3
+
+\---
+
+
+
+I am a final-year PhD candidate in Mechanical Engineering at the
+
+New Jersey Institute of Technology. I am also pursuing an MS in
+
+Computer Science (OMSCS) at Georgia Tech.
+
+
+
+My research builds \*\*wearable systems that bridge the human body and
+
+computational intelligence\*\*. I work across three layers — engineering
+
+flexible piezoelectric/triboelectric/strain sensors at the material
+
+level, processing biosignals such as EMG, ECG, and SCG, and designing
+
+AI-driven human-machine interfaces that turn physiological signals
+
+into actionable intent. Recent work appears in \*Nano Energy\*,
+
+\*Advanced Sensor Research\*, \*Advanced Robotics Research\*, and \*ACS\*.
+
+
+
+I am currently focused on \*\*Sensing + AI\*\* — building end-to-end
+
+pipelines from flexible sensors and biosignals through model-based
+
+decoding to real-world action. I apply these pipelines across four
+
+domains: \*\*cardiac monitoring\*\*, \*\*VLM-based driving monitoring\*\*,
+
+\*\*combat sport monitoring\*\*, and \*\*human-robot interaction\*\*.
+
+
+
+Beyond research, I train in boxing, kickboxing, and Brazilian
+
+jiu-jitsu, and practice classical Chinese calligraphy.
+
