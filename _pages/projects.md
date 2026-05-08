@@ -10,17 +10,18 @@ horizontal: false
 ---
 
 <style>
+h2.category,
 .projects h2.category {
-  color: #b509ac;
-  font-weight: 700;
-  opacity: 1;
+  color: #b509ac !important;
+  font-weight: 700 !important;
+  opacity: 1 !important;
   margin-top: 2rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid #e0e0e0;
+  font-size: 2rem;
 }
 </style>
-
 <!-- pages/projects.md -->
 
 <div class="projects">
