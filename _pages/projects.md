@@ -21,6 +21,24 @@ h2.category,
   border-bottom: 2px solid #e0e0e0;
   font-size: 2rem;
 }
+
+.projects .card-img-top {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 240px;
+  display: block;
+  margin: 0 auto;
+}
+
+.projects .card {
+  height: 100%;
+  text-align: center;
+}
+
+.projects .card-body {
+  text-align: left;
+}
 </style>
 
 <div class="projects">
