@@ -32,15 +32,3 @@ Soft EMG sensors monitor pelvic floor and deep core activation in real time, whi
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

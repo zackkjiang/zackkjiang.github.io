@@ -32,15 +32,3 @@ A wearable sensing module captures chest compression depth and rate alongside th
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

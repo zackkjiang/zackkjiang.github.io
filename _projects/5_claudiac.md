@@ -32,15 +32,3 @@ A wearable cardiac sensor streams real-time heartbeat waveforms to a paired mobi
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

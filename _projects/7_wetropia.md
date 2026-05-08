@@ -34,15 +34,3 @@ WeTropia is built as a multi-agent system in which specialized agents handle dif
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

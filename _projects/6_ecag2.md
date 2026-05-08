@@ -32,15 +32,3 @@ The framework decomposes ECG analysis into specialist agents — each responsibl
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

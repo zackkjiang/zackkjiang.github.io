@@ -32,15 +32,3 @@ The platform combines flexible electrode and accelerometer-based sensors with on
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Team project — Rutgers Health Hack 2024.

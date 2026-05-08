@@ -32,15 +32,3 @@ Wearable EMG and physiological sensors capture muscle activation patterns, breat
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

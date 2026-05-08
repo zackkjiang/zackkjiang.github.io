@@ -32,15 +32,3 @@ EMG sensors on the residual limb decode user intent, while a gravity-loading sim
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

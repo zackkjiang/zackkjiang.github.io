@@ -32,15 +32,3 @@ Flexible piezoelectric and triboelectric sensors are embedded across the impact 
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.

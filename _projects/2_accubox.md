@@ -32,15 +32,3 @@ A dense array of impact-sensitive flexible sensors is integrated into the boxing
 </div>
 
 {% endif %}
-
-## Demo
-
-*Demo video and footage coming soon.*
-
-## Funding & recognition
-
-*To be announced.*
-
-## Collaborators
-
-Independent project.
