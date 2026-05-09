@@ -1,162 +1,196 @@
 cv:
-  - title: General Information
-    type: map
-    contents:
-      - name: Full Name
-        value: Zhipeng (Zack) Jiang
-      - name: Languages
-        value: English, Mandarin
+  name: Zhipeng (Zack) Jiang
+  label: PhD Candidate · Wearable Biosignal Systems · AI-Driven Human-Machine Interfaces
+  email: zj28@njit.edu
+  phone: ""
+  address:
+    city: Newark
+    region: NJ
+    postalCode: "07102"
+  summary: >
+    PhD candidate in Mechanical Engineering at NJIT, also pursuing an OMSCS degree at Georgia Tech.
+    My research builds wearable systems that bridge the human body and computational intelligence —
+    engineering flexible piezoelectric, triboelectric, and strain sensors at the material level,
+    processing biosignals (EMG/ECG/SCG), and designing AI-driven human-machine interfaces.
+    Recent work appears in *Nano Energy*, *Advanced Sensor Research*, *Advanced Robotics Research*, and *ACS Materials Letters*.
 
-  - title: Education
-    type: time_table
-    contents:
-      - title: M.S. in Computer Science (OMSCS)
-        institution: Georgia Institute of Technology
-        year: 2025 - present
-        description:
-          - "Specialization: Interactive Intelligence"
-          - "Coursework: Knowledge-Based AI · Software Architecture and Design · Agentic AI Essentials · ML for Sensor-based HAR"
+  sections:
+    Education:
+      - institution: Georgia Institute of Technology
+        area: Computer Science (OMSCS)
+        studyType: M.S.
+        startDate: "2025"
+        endDate: "present"
+        summary: "Specialization: Interactive Intelligence. Coursework: Knowledge-Based AI · Software Architecture and Design · Agentic AI Essentials · ML for Sensor-based HAR."
 
-      - title: Ph.D. in Mechanical Engineering
-        institution: New Jersey Institute of Technology
-        year: 2022 - 2026 (expected)
-        description:
-          - "Advisor: Prof. Lin Dong"
-          - "Research focus: Smart flexible-sensor-based human-robot interaction with VR & ML"
-          - "GPA: 3.75 / 4.0"
+      - institution: New Jersey Institute of Technology
+        area: Mechanical Engineering
+        studyType: Ph.D.
+        startDate: "2022"
+        endDate: "2026 (expected)"
+        summary: "Advisor: Prof. Lin Dong. Research focus: smart flexible-sensor-based human-robot interaction with VR & ML. GPA: 3.75/4.0"
 
-      - title: M.S. in Aerospace Engineering
-        institution: Mississippi State University
-        year: 2020 - 2023
-        description:
-          - "Research focus: Dynamics, acoustics, and vibration control"
-          - "GPA: 3.75 / 4.0"
+      - institution: Mississippi State University
+        area: Aerospace Engineering
+        studyType: M.S.
+        startDate: "2020"
+        endDate: "2023"
+        summary: "Research focus: dynamics, acoustics, and vibration control. GPA: 3.75/4.0"
 
-      - title: B.S. in Mechanical Engineering
-        institution: University of Dayton
-        year: 2014 - 2020
-        description:
-          - "Honors thesis: Design of a Body-Powered Prosthetic Arm"
-          - "GPA: 3.54 / 4.0"
+      - institution: University of Dayton
+        area: Mechanical Engineering
+        studyType: B.S.
+        startDate: "2014"
+        endDate: "2020"
+        summary: "Honors thesis: Design of a Body-Powered Prosthetic Arm. GPA: 3.54/4.0"
 
-  - title: Experience
-    type: time_table
-    contents:
-      - title: PhD Research Engineer — Wearable Devices & Human-Machine Interfaces
-        institution: New Jersey Institute of Technology
-        year: 2022 - present
-        description:
-          - "Built and deployed an end-to-end wearable biosignal system (EMG/ECG/SCG) integrating custom analog frontend, ESP32-based DAQ, and a real-time sensing pipeline for health monitoring."
-          - "Fabricated P(VDF-TrFE) piezoelectric nanofiber and triboelectric (TENG) flexible sensors from scratch; characterized sensitivity > 60 mV/kPa with 10,000-cycle mechanical durability via SEM, AFM, and impedance analysis."
-          - "Implemented a piezoelectric-sensing-based real-time muscle classification pipeline enabling low-latency control of robotic prosthetics."
-          - "Deployed a full sensor-to-VR system integrating flexible EMG sensors with a Unity-based virtual prosthetic hand for neuromotor rehabilitation; validated with amputees in real prosthetic rehabilitation scenarios."
-          - "Collaborated across hardware, software, and clinical teams on 4 published systems; mentored 3 junior researchers on sensor fabrication, software coding, and material characterization protocols."
+    Experience:
+      - company: New Jersey Institute of Technology
+        position: PhD Research Engineer — Wearable Devices & Human-Machine Interfaces
+        startDate: "2022"
+        endDate: "present"
+        summary: |
+          - Built and deployed an end-to-end wearable biosignal system (EMG/ECG/SCG) integrating custom analog frontend, ESP32-based DAQ, and a real-time sensing pipeline for health monitoring.
+          - Fabricated P(VDF-TrFE) piezoelectric nanofiber and triboelectric (TENG) flexible sensors from scratch; characterized sensitivity > 60 mV/kPa with 10,000-cycle durability via SEM, AFM, and impedance analysis.
+          - Implemented a piezoelectric-sensing real-time muscle classification pipeline enabling low-latency control of robotic prosthetics.
+          - Deployed a full sensor-to-VR system integrating flexible EMG sensors with a Unity-based virtual prosthetic hand for neuromotor rehabilitation; validated with amputees.
+          - Collaborated across hardware, software, and clinical teams on 4 published systems; mentored 3 junior researchers.
 
-      - title: Graduate Research Engineer — Structural Sensing & Fault Diagnosis
-        institution: Mississippi State University
-        year: 2020 - 2023
-        description:
-          - "Developed a multichannel ultrasonic sensing system for composite-material defect detection using ultrasonic C-Scan, achieving < 200 µm defect sensitivity through guided-wave signal processing."
-          - "Built a real-time bearing fault diagnosis pipeline fusing 6-channel vibration sensor data via frequency-domain analysis, achieving > 98% accuracy."
+      - company: Mississippi State University
+        position: Graduate Research Engineer — Structural Sensing & Fault Diagnosis
+        startDate: "2020"
+        endDate: "2023"
+        summary: |
+          - Developed a multichannel ultrasonic sensing system for composite-material defect detection using ultrasonic C-Scan, achieving < 200 µm defect sensitivity through guided-wave signal processing.
+          - Built a real-time bearing fault diagnosis pipeline fusing 6-channel vibration data via frequency-domain analysis, achieving > 98% accuracy.
 
-      - title: International Peer Academic Coach
-        institution: University of Dayton
-        year: 2018
+      - company: University of Dayton
+        position: International Peer Academic Coach
+        startDate: "2018"
+        endDate: "2018"
 
-      - title: Mechanical Engineering Co-op
-        institution: Exsplendid Inc.
-        year: 2017
+      - company: Exsplendid Inc.
+        position: Mechanical Engineering Co-op
+        startDate: "2017"
+        endDate: "2017"
 
-  - title: Selected Awards
-    type: time_table
-    contents:
-      - title: 2nd Place — NJ New Business Model Competition
-        year: 2025
-        description:
-          - "**LimbVR** — VR-based rehabilitation platform combining wearable resistive strain and flexible EMG sensing with a Unity-controlled virtual hand for real-time prosthetic training."
-          - "Selected to advance to the 2026 Hult Prize Competition National Round (Top 40)."
+    Awards:
+      - title: 2nd Place — NJ New Business Model Competition (selected for 2026 Hult Prize National Round)
+        awarder: Drexel University
+        date: "2025-12"
+        summary: "**LimbVR** — VR-based rehabilitation platform combining wearable resistive strain and flexible EMG sensing with a Unity-controlled virtual hand for real-time prosthetic training."
 
       - title: Honorable Mention & Women's Health Accelerator Selection
-        institution: Rutgers Health Hackathon 2025
-        year: 2025
-        description:
-          - "**WeTropia** — AI-agent OB/GYN triage assistant that gathers symptoms, evaluates urgency, routes patients, and produces RAG-backed appointment summaries."
-          - "Selected for Rutgers 2025 Women's Health Accelerator Program."
+        awarder: Rutgers Health Hackathon 2025
+        date: "2025-10"
+        summary: "**WeTropia** — AI-agent OB/GYN triage assistant using RAG to gather symptoms, evaluate urgency, route patients, and produce reference-backed appointment summaries."
 
       - title: Best AI & AR for Maternal Wellness
-        institution: HopHacks 2025, Johns Hopkins University
-        year: 2025
-        description:
-          - "**ReBloom** — AI-powered AR wellness coach using wearable EMG sensors and Python-based real-time signal analysis for personalized postpartum recovery."
+        awarder: HopHacks 2025, Johns Hopkins University
+        date: "2025-09"
+        summary: "**ReBloom** — AI-powered AR wellness coach using wearable EMG sensors and Python real-time signal analysis for personalized postpartum recovery."
 
       - title: Best Agentic AI Design
-        institution: Hacking Agents Hackathon NYC 2025
-        year: 2025
-        description:
-          - "**RPG Craft** — Agentic AI-powered, generatively scripted game built on a LangFlow-based multi-agent system."
+        awarder: Hacking Agents Hackathon NYC 2025
+        date: "2025-05"
+        summary: "**RPG Craft** — Agentic AI-powered, generatively scripted game built on a LangFlow-based multi-agent system."
 
       - title: 1st Place — Medical Track
-        institution: Drexel Dragon Hackathon 2025
-        year: 2025
-        description:
-          - "**Cybathlon VR** — Interactive VR rehabilitation system fusing wearable resistive strain and flexible EMG sensing into a Unity-controlled virtual hand for prosthetic training and motor-control research."
+        awarder: Drexel Dragon Hackathon 2025
+        date: "2025-04"
+        summary: "**Cybathlon VR** — Interactive VR rehabilitation system fusing wearable resistive strain and flexible EMG sensing into a Unity-controlled virtual hand."
 
       - title: 4th Place & Honorable Mention
-        institution: Rutgers Health Hackathon 2024
-        year: 2024
-        description:
-          - "**Heartup** — AI-powered cardiac VR digital twin combining Bi-LSTM with attention and MLP models to analyze ECG data, predict long-term health risks, and support patient-provider decision-making."
+        awarder: Rutgers Health Hackathon 2024
+        date: "2024-10"
+        summary: "**Heartup** — AI-powered cardiac VR digital twin combining Bi-LSTM with attention and MLP models to analyze ECG data for long-term risk prediction."
 
       - title: 1st Place
-        institution: NJIT Dana Knox Research Showcase 2024
-        year: 2024
-        description:
-          - "**Smart Human-Machine Interface** — Self-powered, breathable piezoelectric HMI translating bicep muscle signals into Morse code for gesture recognition and robotic prosthetic control."
+        awarder: NJIT Dana Knox Research Showcase 2024
+        date: "2024-04"
+        summary: "**Smart Human-Machine Interface** — Self-powered, breathable piezoelectric HMI translating bicep muscle signals into Morse code for gesture recognition and robotic prosthetic control."
 
-  - title: Skills
-    type: nested_list
-    contents:
-      - title: Systems
-        items:
+    Skills:
+      - name: Systems
+        keywords:
           - End-to-end wearable sensing pipelines
           - Real-time data acquisition (DAQ)
           - Embedded system integration
-
-      - title: Hardware
-        items:
+      - name: Hardware
+        keywords:
           - Flexible / piezoelectric / triboelectric / strain sensors
           - EMG / ECG / SCG sensing
-          - Analog front-end design, circuit & PCB design
+          - Analog front-end, circuit & PCB design
           - MCU programming
           - SEM / AFM characterization
-
-      - title: Software & AI
-        items:
+      - name: Software & AI
+        keywords:
           - Python, C#, MATLAB, LabVIEW
           - Real-time DSP and machine learning
-          - AI agent design (LLM, RAG, multi-agent systems)
-
-      - title: Tools
-        items:
+          - LLM / RAG / multi-agent systems
+      - name: Tools
+        keywords:
           - SolidWorks, COMSOL
           - Unity (VR / AR integration)
 
-  - title: Conference Presentations
-    type: list
-    contents:
-      - "S. H. Kwon, N. Ratnakumar, **Z. Jiang**, Z. You, X. Zhou, L. Dong. *A self-powered flexible wearable sensor for activity recognition.* IEEE-EMBS International Conference on Body Sensor Networks (IEEE BSN 2023), Boston, MA, October 2023."
+    Languages:
+      - language: English
+        fluency: Fluent
+      - language: Mandarin
+        fluency: Native
 
-  - title: Selected Publications
-    type: list
-    contents:
-      - "Wang, Y., **Jiang, Z.**, Kwon, S. H., Ibrahim, M., Dang, A., Dong, L. (2026). Flexible sensor-based human-machine interfaces with AI integration for medical robotics. *Advanced Robotics Research*, 2(1), e202500027."
-      - "Zhang, C., Kwon, S. H., Huerta, A., **Jiang, Z.**, Sun, M., Dong, L. (2025). Self-polarized piezoelectric hydrogels with flexible-rigid networks for ultrasensitive multifunctional sensors. *ACS Materials Letters*, 7(7), 2607-2616."
-      - "Zhang, C., **Jiang, Z.**, Sun, M., Augustin-Lawson, R., Kwon, S. H., Dong, L. (2025). Nature-inspired helical piezoelectric hydrogels for energy harvesting and self-powered human-machine interfaces. *Nano Energy*, 136, 110755."
-      - "**Jiang, Z.**, Zhang, C., Kwon, S. H., Dong, L. (2024). Self-powered, soft and breathable human-machine interface based on piezoelectric sensors. *Advanced Sensor Research*, 3(12), 2400086."
-      - "Kwon, S. H., Zhang, C., **Jiang, Z.**, Dong, L. (2024). Textured nanofibers inspired by nature for harvesting biomechanical energy and sensing biophysiological signals. *Nano Energy*, 122, 109334."
-      - "Zhang, X., Li, L., Pu, L., Yang, J., Wang, Z., Fu, R., **Jiang, Z.** (2024). Deep learning-based malicious energy attack detection in sustainable IoT network. *International Conference on Computing, Networking and Communications (ICNC)*, 417-422."
-      - "Lu, Z., Zhang, C., Kwon, S. H., **Jiang, Z.**, Dong, L. (2023). Flexible hybrid piezoelectric-electrostatic device for energy harvesting and sensing applications. *Advanced Materials Interfaces*, 10(8), 2202173."
-      - "Zamiela, C., **Jiang, Z.**, Stokes, R., Tian, Z., Netchaev, A., Dickerson, C., Tian, W., Bian, L. (2023). Deep multi-modal U-Net fusion methodology of thermal and ultrasonic images for porosity detection in additive manufacturing. *Journal of Manufacturing Science and Engineering*, 145(6), 061009."
-      - "Al Mamun, A., Bappy, M. M., Mudiyanselage, A. S., Li, J., **Jiang, Z.**, Tian, Z., Fuller, S., Falls, T. C., Bian, L., Tian, W. (2023). Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis. *International Journal of Advanced Manufacturing Technology*, 124(3), 1321-1334."
-      - "Righi, H., Li, T., **Jiang, Z.**, Li, J., Tian, Z. (2022). Numerical study of ultrasonic guided waves in a composite-plastic lap joint. *IFAC-PapersOnLine*, 55(27), 353-357."
-      - "Zamiela, C., Tian, W., Bian, L., **Jiang, Z.**, Tian, Z. (2021). Deep fusion methodology of infrared and ultrasonic data for porosity detection in additive manufacturing. *IISE Annual Conference Proceedings*, 229-234."
+    Publications:
+      - name: "Flexible sensor-based human-machine interfaces with AI integration for medical robotics"
+        publisher: "Advanced Robotics Research"
+        releaseDate: "2026"
+        summary: "Wang, Y., **Jiang, Z.**, Kwon, S. H., Ibrahim, M., Dang, A., Dong, L."
+
+      - name: "Self-polarized piezoelectric hydrogels with flexible-rigid networks for ultrasensitive multifunctional sensors"
+        publisher: "ACS Materials Letters"
+        releaseDate: "2025"
+        summary: "Zhang, C., Kwon, S. H., Huerta, A., **Jiang, Z.**, Sun, M., Dong, L."
+
+      - name: "Nature-inspired helical piezoelectric hydrogels for energy harvesting and self-powered human-machine interfaces"
+        publisher: "Nano Energy"
+        releaseDate: "2025"
+        summary: "Zhang, C., **Jiang, Z.**, Sun, M., Augustin-Lawson, R., Kwon, S. H., Dong, L."
+
+      - name: "Self-powered, soft and breathable human-machine interface based on piezoelectric sensors"
+        publisher: "Advanced Sensor Research"
+        releaseDate: "2024"
+        summary: "**Jiang, Z.**, Zhang, C., Kwon, S. H., Dong, L."
+
+      - name: "Textured nanofibers inspired by nature for harvesting biomechanical energy and sensing biophysiological signals"
+        publisher: "Nano Energy"
+        releaseDate: "2024"
+        summary: "Kwon, S. H., Zhang, C., **Jiang, Z.**, Dong, L."
+
+      - name: "Deep learning-based malicious energy attack detection in sustainable IoT network"
+        publisher: "International Conference on Computing, Networking and Communications (ICNC)"
+        releaseDate: "2024"
+        summary: "Zhang, X., Li, L., Pu, L., Yang, J., Wang, Z., Fu, R., **Jiang, Z.**"
+
+      - name: "Flexible hybrid piezoelectric-electrostatic device for energy harvesting and sensing applications"
+        publisher: "Advanced Materials Interfaces"
+        releaseDate: "2023"
+        summary: "Lu, Z., Zhang, C., Kwon, S. H., **Jiang, Z.**, Dong, L."
+
+      - name: "Deep multi-modal U-Net fusion methodology of thermal and ultrasonic images for porosity detection in additive manufacturing"
+        publisher: "Journal of Manufacturing Science and Engineering"
+        releaseDate: "2023"
+        summary: "Zamiela, C., **Jiang, Z.**, Stokes, R., Tian, Z., Netchaev, A., Dickerson, C., Tian, W., Bian, L."
+
+      - name: "Multi-channel sensor fusion for real-time bearing fault diagnosis by frequency-domain multilinear principal component analysis"
+        publisher: "International Journal of Advanced Manufacturing Technology"
+        releaseDate: "2023"
+        summary: "Al Mamun, A., Bappy, M. M., Mudiyanselage, A. S., Li, J., **Jiang, Z.**, Tian, W."
+
+      - name: "Numerical study of ultrasonic guided waves in a composite-plastic lap joint"
+        publisher: "IFAC-PapersOnLine"
+        releaseDate: "2022"
+        summary: "Righi, H., Li, T., **Jiang, Z.**, Li, J., Tian, Z."
+
+      - name: "Deep fusion methodology of infrared and ultrasonic data for porosity detection in additive manufacturing"
+        publisher: "IISE Annual Conference Proceedings"
+        releaseDate: "2021"
+        summary: "Zamiela, C., Tian, W., Bian, L., **Jiang, Z.**, Tian, Z."
