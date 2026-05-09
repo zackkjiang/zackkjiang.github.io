@@ -3,9 +3,8 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: Zhipeng_Jiang_CV.pdf
-description: PhD Candidate · Wearable Biosignal Systems · AI-Driven Human-Machine Interfaces.
+nav_order: 4
+description:
 toc:
   sidebar: left
 ---
