@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our startup **LimbVR** was pitched at the Hult Prize Startup Competition as a National Top 40 finalist! :tada:
+Our startup **LimbVR** was pitched at the **Hult Prize Startup Competition** as a **National Top 40 finalist**! :tada:
