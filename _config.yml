@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Zhipeng Zackk Jiang # the website title (if blank, full name will be used instead)
 first_name: Zhipeng
-middle_name:
-last_name: Jiang
+middle_name: Zackk
+last_name: <strong>Jiang</strong>
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
