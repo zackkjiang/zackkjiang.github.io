@@ -20,7 +20,20 @@ A rule-based arrhythmia classifier first normalizes these features into safety-o
 
 ## Demo
 
-*End-to-end demonstration video coming soon.*
+<div class="row justify-content-center">
+  <div class="col-md-10">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+      <iframe src="https://www.youtube.com/embed/YRNRbPPlRcg"
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-2">
+  <a href="https://youtu.be/YRNRbPPlRcg" target="_blank" rel="noopener">Watch the demo on YouTube</a>
+</div>
 
 ## Funding &amp; recognition
 
@@ -28,6 +41,4 @@ A rule-based arrhythmia classifier first normalizes these features into safety-o
 
 Awarded to Team **OpenClaw CardioHarness**: Zhipeng Jiang, Xinyu Zhang, Hanzhang Fang, Jing Huang, Ying Zhou.
 
-## Collaborators
-
-A cross-institution effort across New Jersey Institute of Technology, Indiana University Bloomington, and Georgia Institute of Technology. Developed in part at the [Dong Lab](https://centers.njit.edu/donglab/), New Jersey Institute of Technology.
+Official challenge page: [GigaBrain Challenge 2026](https://gigaai-research.github.io/GigaBrain-Challenge-2026/)
