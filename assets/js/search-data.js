@@ -438,6 +438,11 @@ ninja.data = [{
           description: "An AI-powered AR postpartum recovery coach that uses EMG biosignals and real-time feedback to help mothers safely rebuild core strength.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_rebloom/";
+            },},{id: "projects-ecg-reasoner",
+          title: 'ECG Reasoner',
+          description: "Explainable wearable cardiac monitoring that pairs deterministic ECG signal processing with multi-agent clinical reasoning under the OpenClaw safety harness.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_ecgreasoner/";
             },},{id: "projects-puntech",
           title: 'Puntech',
           description: "AI-powered VR boxing training partner with flexible impact sensors.",
