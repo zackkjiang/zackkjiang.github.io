@@ -9,7 +9,7 @@ related_publications: false
 github: https://github.com/zackkjiang/ECAG2
 youtube:
 devpost:
-website: https://ecag2.netlify.app/
+website:
 ---
 
 ## Motivation
