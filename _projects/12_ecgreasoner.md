@@ -18,23 +18,6 @@ ECG waveforms are captured from a consumer wearable such as an Apple Watch and p
 
 A rule-based arrhythmia classifier first normalizes these features into safety-oriented risk categories (normal, watch, concern, critical) before any LLM is involved. The structured features then go to an AG2 multi-agent consultation, where a *SignalAnalyst* agent proposes ranked diagnostic hypotheses and a *Cardiologist* agent commits to a single diagnosis — with every conclusion required to cite explicit feature values. Wrapping the entire reasoning layer is **OpenClaw**, a safety harness enforcing output guardrails, evidence verification, consistency checks, conservative fallback policies, and audit logging. The final output is an evidence-grounded diagnosis delivered in dual modes: a technical clinician view and a plain-language patient view.
 
-## Demo
-
-<div class="row justify-content-center">
-  <div class="col-md-10">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-      <iframe src="https://www.youtube.com/embed/YRNRbPPlRcg"
-              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
-
-<div class="text-center mt-2">
-  <a href="https://youtu.be/YRNRbPPlRcg" target="_blank" rel="noopener">Watch the demo on YouTube</a>
-</div>
-
 ## Funding &amp; recognition
 
 🏆 **2nd Place Award — CVPR 2026 Workshop, GigaBrain Challenge (PhysClaw Track)**, Denver, CO, June 2026.
